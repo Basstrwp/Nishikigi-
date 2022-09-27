@@ -1,0 +1,14 @@
+{
+  "ownerNumber": ["6285808936396@s.whatsapp.net"],
+  "ownerName": ["Nishikigi Chisato"],
+  "botName": "Nishikigi Chisato",
+  "sessionName": "chisato",
+  "pathimg": "./media/yo.jpg",
+  "gcwa": "beacons.ai/chisato",
+  "gamewaktu": 90,
+  "limitCount": 30,
+  "gcount": {
+	"prem": 100000000000,
+	"user": 30
+  }
+}
